@@ -1,4 +1,4 @@
-#Banco Digital DIO
+# Banco Digital DIO
 
 Este projeto tem o intuito de colocar em prática o que foi aprendido sobre Orientação a Objetos. Mais coisas serão implementadas ao passar do tempo e do desenvolvimento dos estudos.
 
